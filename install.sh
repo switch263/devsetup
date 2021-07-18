@@ -9,7 +9,7 @@
 # git					#
 # terminator				#
 echo 'Installing base tools'
-sudo apt install -yqqq curl vim git
+sudo apt install -yqqq curl vim git terminator
 
 ### Install BAT ###
 echo 'Installing BAT https://github.com/sharkdp/bat'
