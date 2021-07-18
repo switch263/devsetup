@@ -7,6 +7,7 @@
 # curl					#
 # vim					#
 # git					#
+# terminator				#
 echo 'Installing base tools'
 sudo apt install -yqqq curl vim git
 
